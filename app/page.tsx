@@ -278,7 +278,7 @@ export default function Home() {
                     <Icon name="arrow" className="h-4 w-4" />
                   </a>
                   <span className="chip rounded-full px-7 py-3 text-sm text-mist">
-                    微信：Fliex_6666（备注"官网咨询"）
+                    微信：zhishu_agent（备注"官网咨询"）
                   </span>
                 </div>
               </div>
