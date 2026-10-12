@@ -271,14 +271,14 @@ export default function Home() {
                 </p>
                 <div className="mt-9 flex flex-wrap items-center justify-center gap-4">
                   <a
-                    href="mailto:hello@zhishu-ai.example.com"
+                    href="mailto:liyu.global2021@gmail.com"
                     className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-brand to-brand-2 px-7 py-3 font-medium text-white transition-opacity hover:opacity-90"
                   >
                     邮件联系我们
                     <Icon name="arrow" className="h-4 w-4" />
                   </a>
                   <span className="chip rounded-full px-7 py-3 text-sm text-mist">
-                    微信：zhishu-ai（备注"官网咨询"）
+                    微信：Fliex_6666（备注"官网咨询"）
                   </span>
                 </div>
               </div>
